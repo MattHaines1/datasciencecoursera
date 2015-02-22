@@ -1,2 +1,2 @@
 # datasciencecoursera
-For Data Scientist Toolbox final project
+This is for my Data Scientist Toolbox final project.
